@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+Within this repo you will find my solutions to the assignment below. (CapitalJ15)
+
 ## Introduction
 
 This assignment uses data from
